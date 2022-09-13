@@ -1,4 +1,4 @@
-package com.gradle.tutorial;
+package com.gradle.comp2522;
 
 public class FizzBuzzProcessor {
     public static void main(String[] args) {
